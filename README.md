@@ -20,6 +20,6 @@ Um chatbot simples que usa o **Bard** para realizar interações básicas com os
 ## 📩 Como Me Encontrar
 
 Sinta-se à vontade para me contatar:
-- **GitHub:** [[SeuLinkAqui](https://github.com/pedruxo)](#)
-- **LinkedIn:** [[SeuLinkAqui](https://www.linkedin.com/in/pedro-fukuya-ohno-4219b5267/)](#)
-- **Email:** [[SeuLinkAqui](pedro.fukuya@gmail.com)](#)
+- [[Github](https://github.com/pedruxo)](#)
+- [[LinkedIn](https://www.linkedin.com/in/pedro-fukuya-ohno-4219b5267/)](#)
+- [[Email](pedro.fukuya@gmail.com)](#)
