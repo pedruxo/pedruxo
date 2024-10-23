@@ -1,16 +1,25 @@
-## Hi there 👋
+# Meu Portfólio de Projetos de Ciência da Computação
 
-<!--
-**pedruxo/pedruxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu repositório! Sou um estudante de Ciência da Computação no Instituto Federal de São Paulo (IFSP) - Campus Salto
 
-Here are some ideas to get you started:
+## 👋 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia e programação, com experiência em:
+- **Linguagens de Programação:** C, Python, JavaScript
+- **Frameworks:** Flask
+
+## 📕 Projetos
+
+### 1. Chatbot
+Um chatbot simples que usa o **Bard** para realizar interações básicas com os usuários, desenvolvido para ser apresentado na feira de ciências.
+
+**Tecnologias Utilizadas:**
+- Bard
+- Python
+
+## 📩 Como Me Encontrar
+
+Sinta-se à vontade para me contatar:
+- **GitHub:** [[SeuLinkAqui](https://github.com/pedruxo)](#)
+- **LinkedIn:** [[SeuLinkAqui](https://www.linkedin.com/in/pedro-fukuya-ohno-4219b5267/)](#)
+- **Email:** [[SeuLinkAqui](pedro.fukuya@gmail.com)](#)
