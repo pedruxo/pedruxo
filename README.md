@@ -1,6 +1,6 @@
-# Meu Portfólio de Projetos de Ciência da Computação
+# README
 
-Bem-vindo ao meu repositório! Sou um estudante de Ciência da Computação no Instituto Federal de São Paulo (IFSP) - Campus Salto
+Bem-vindo ao meu repositório! Meu nome é Pedro e atualmente estou estudando no IFSP - Salto
 
 ## 👋 Sobre Mim
 
@@ -20,6 +20,6 @@ Um chatbot simples que usa o **Bard** para realizar interações básicas com os
 ## 📩 Como Me Encontrar
 
 Sinta-se à vontade para me contatar:
-- [[Github](https://github.com/pedruxo)](#)
-- [[LinkedIn](https://www.linkedin.com/in/pedro-fukuya-ohno-4219b5267/)](#)
-- [[Email](pedro.fukuya@gmail.com)](#)
+- [Github](https://github.com/pedruxo)
+- [LinkedIn](https://www.linkedin.com/in/pedro-fukuya-ohno-4219b5267/)
+- [Email](pedro.fukuya@gmail.com)
