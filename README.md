@@ -11,11 +11,19 @@ Sou apaixonado por tecnologia e programação, com experiência em:
 ## 📕 Projetos
 
 ### 1. Chatbot
-Um chatbot simples que usa o **Bard** para realizar interações básicas com os usuários, desenvolvido para ser apresentado na feira de ciências.
+Um chatbot que usa o **Bard** para realizar interações com os usuários, desenvolvido para ser apresentado na feira de ciências.
 
 **Tecnologias Utilizadas:**
 - Bard
 - Python
+
+### 2. Budget Buddy
+Um rastreador de finanças pessoais para gerenciar os gastos e visualizar seus gastos. O aplicativo permite que o usuário monitore a renda, as despesas, os investimentos e saúde financeira geral, com uma interface simples e intuitiva.
+
+**Tecnologias utilizadas:**
+- Python
+- Flask
+- HTML/CSS
 
 ## 📩 Como Me Encontrar
 
